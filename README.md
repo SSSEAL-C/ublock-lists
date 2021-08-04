@@ -8,3 +8,5 @@ Right Click, Copy link, import url as a filter list
 
 
 [IP Grabbers](https://raw.githubusercontent.com/SSSEAL-C/ublock-lists/main/lists/ipgrabbers)
+[Scam Sites](https://raw.githubusercontent.com/SSSEAL-C/ublock-lists/main/lists/scamsites)
+[Twitch IP Grabber Ext. Exploit](https://raw.githubusercontent.com/SSSEAL-C/ublock-lists/main/lists/twitchextexploit)
