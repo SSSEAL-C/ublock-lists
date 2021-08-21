@@ -31,6 +31,7 @@ ipaddressworld.com^
 hotspotshield.com/what-is-my-ip^$document
 thebreakdown.xyz/whats-my-ip-address^$document
 astrill.com/what-is-my-ip^$document
+dslreports.com/whatismyip^$document
 showmyip.com^
 hide.me/*/check^$document
 tunnelbear.com/whats-my-ip^$document
@@ -50,6 +51,9 @@ mxtoolbox.com/whatismyip^$document
 whatismyip.live^
 whatsmybrowser.info^
 ipcost.com^
+whatsmyip.net^
+browserleaks.com/ip^$document
+cx.rightnow.com/app/utils/whatsmyip^$document
 ivacy.com/what-is-my-ip^$document
 dunplab.it/what-is-my-ip^$document
 showmyipaddress.eu^
