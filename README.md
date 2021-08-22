@@ -10,6 +10,9 @@ Right Click, Copy link, import url as a filter list
 [IP Grabbers](https://raw.githubusercontent.com/SSSEAL-C/ublock-lists/main/lists/ipgrabbers)
 
 
+[IP Visible](https://raw.githubusercontent.com/SSSEAL-C/ublock-lists/main/lists/ipvisible)
+
+
 [Scam Sites](https://raw.githubusercontent.com/SSSEAL-C/ublock-lists/main/lists/scamsites)
 
 
